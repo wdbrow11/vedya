@@ -12,6 +12,7 @@ var shoutouts = [
 "You kindness and humor. I love how determined and enthusiastic you are when problem-solving and also in general.",
 "How quirky you are!",
 "how funny and kind you are. You are really easy to approach and start a conversation with.",
+"That you are very persistent with your ideas and you're always thinking in other's situations. I also like being your partner and I really think we're making a great job."
 ]
 
 var images = [
